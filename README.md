@@ -1,6 +1,7 @@
 # translator
 
 A new Flutter project.
+![Screenshot_1672224924](https://user-images.githubusercontent.com/72551841/209802132-03ba3613-4adc-4a16-81b3-ea4422ee9f39.png)
 
 ## Getting Started
 
